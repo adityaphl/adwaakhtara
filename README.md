@@ -14,7 +14,7 @@
 ### About Me:
 <details>
  <summary><strong> Click this to see what i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning about C++, C#, C, and Python Programming Laguange </br>
+    - 🌱 I’m currently learning about C++, C#, C, and Python Programming Language </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:rio.pahlevi@students.amikom.ac.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
