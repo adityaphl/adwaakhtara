@@ -1,4 +1,4 @@
-# Hi, I'm Aditya!👋 
+# ¡Hola! Soy Aditya!👋 
 👷I'm an informatics engineering student. I have an interest in computer networks, but nowadays I also want to hone my programming skills. 
 
 **Languages and Tools:**  
@@ -19,3 +19,8 @@
 </details>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=adwaakhtara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaakhtara&layout=compact" height=180 />
+</p>
