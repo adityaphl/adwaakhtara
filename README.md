@@ -1,5 +1,5 @@
 # Hi, I'm Aditya!👋 
-I'm an informatics engineering student👷. I have an interest in computer networks, but nowadays I also want to hone my programming skills. 
+👷I'm an informatics engineering student. I have an interest in computer networks, but nowadays I also want to hone my programming skills. 
 
 ### Tools:
 <p>
@@ -8,7 +8,6 @@ I'm an informatics engineering student👷. I have an interest in computer netwo
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/adwaakhtara" />
 </p>  
-
 
 ### Stats:
 <details>
