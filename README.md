@@ -1,13 +1,13 @@
 # Hi, I'm Aditya!👋 
 👷I'm an informatics engineering student. I have an interest in computer networks, but nowadays I also want to hone my programming skills. 
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/IDE-Visual%20Studio-blue?&logo=visual%20studio" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/adwaakhtara" />
-</p>  
+**Languages and Tools:**  
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
 
 ### Stats:
 <details>
@@ -19,5 +19,4 @@
 </details>
 <p>
    NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/adwaakhtara/github-readme-stats)*
-
-![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=adwaakhtara&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaakhtara&layout=compact)
+    (https://github-readme-stats.vercel.app/api?username=adwaakhtara&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?             username=adwaakhtara&layout=compact)
