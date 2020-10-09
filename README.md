@@ -18,9 +18,7 @@
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="rio.pahlevi@students.amikom.ac.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-</details>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of Github Readme Stats.*
+</details> 
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=adwaakhtara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
