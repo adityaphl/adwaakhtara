@@ -1,5 +1,5 @@
 # ¡Hola! Soy Aditya!👋 
-👷  I'm an informatics engineering student, I was very interested in networking, but I also learned more about programming. So for me right now it doesn't matter, as long as I'm able to learn it. 
+👷I'm an informatics engineering student, I'm interested about networking, but I also learned more about programming. So for me right now, it doesn't matter which one i'll prioze. As long as I enjoy living it, I'll work on it.
 
 **Languages and Tools:**  
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
