@@ -1,7 +1,7 @@
 # ¡Hola! Soy Aditya!👋 
 👷I'm an informatics engineering student. I have an interest in computer networks, but nowadays I also want to hone my programming skills. 
 
-### Languages and Tools
+**Languages and Tools;**
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
@@ -12,7 +12,6 @@
 
 
 ### About Me
-<details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🌱 I’m currently learning about C++, C#, C, and Python Programming Laguange </br>
     - 💬 Ask me about anything.</br>
