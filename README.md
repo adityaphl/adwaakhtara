@@ -16,7 +16,6 @@
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="rio.pahlevi@students.amikom.ac.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=adwaakhtara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
