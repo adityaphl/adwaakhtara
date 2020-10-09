@@ -18,7 +18,6 @@
     - 😄 Pronouns: He/Him </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adwaakhtara&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaakhtara&layout=compact" height=180 />
-</p>
+   NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/adwaakhtara/github-readme-stats)*
 
+![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=adwaakhtara&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaakhtara&layout=compact)
