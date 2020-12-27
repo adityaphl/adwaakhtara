@@ -1,4 +1,4 @@
-# ¡Hola! Soy Aditya!👋 
+# Hi! I'm Aditya!👋 
 👷I'm an informatics engineering student, I'm interested about networking, but I also want to learn more about programming. So for me right now, it doesn't matter which one i'll prioritize in the future. As long as I enjoy living it now, I'll work on it.
 
 **Languages and Tools:**  
