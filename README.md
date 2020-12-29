@@ -7,4 +7,4 @@ Hi, I'm Aditya (he/him)—I'm an informatics engineering student. My field focus
 
 ## Get in touch
 - Instagram: https://instagram.com/adwaakhtara
-- Blog: https://tinykat.cafe
+- Blog: https://www.tinkercad.com/dashboard?type=circuits&collection=designs
