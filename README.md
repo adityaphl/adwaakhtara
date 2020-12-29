@@ -1,6 +1,5 @@
 # Hi! I'm Aditya!👋 
-👷I'm an informatics engineering student, I'm interested about networking, but I also want to learn more about programming. So for me right now, it doesn't matter which one i'll prioritize in the future. As long as I enjoy living it now, I'll work on it.
-
+👷I'm an informatics engineering student, besides programming I've interest in networking and graphic design.
 **Languages and Tools:**  
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png">
