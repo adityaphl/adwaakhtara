@@ -1,5 +1,5 @@
 # Hi! I'm Aditya!👋 
-👷I'm an informatics engineering student, besides programming I've interest in networking and graphic design.
+I'm an informatics engineering student. My field focuses on graphic design, but sometimes I also practice programming as well.
 
 **Languages and Tools:**  
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
