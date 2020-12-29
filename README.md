@@ -1,5 +1,8 @@
-# Hi! I'm Aditya!👋 
-I'm an informatics engineering student. My field focuses on graphic design, but sometimes I also practice programming as well.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13490001/97367217-f8363e00-1865-11eb-8f20-aa565a75df2e.gif">
+</p>
+
+Hi, I'm Aditya (he/him)—I'm an informatics engineering student. My field focuses on graphic design, but sometimes I also practice programming as well.
 
 **Languages and Tools:**  
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
@@ -11,7 +14,7 @@ I'm an informatics engineering student. My field focuses on graphic design, but 
 <img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 
-### About Me:
+# About Me:
 <details>
  <summary><strong> Click this to see what i am learning/working on these days</strong></summary>
     - 🌱 I’m currently learning about C++, C#, C, and Python Programming Language </br>
