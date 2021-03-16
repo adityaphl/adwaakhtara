@@ -9,6 +9,6 @@ Hi, I'm Aditya (he/him)—I'm an informatics engineering student. My field focus
 - Instagram: https://instagram.com/uix.adit
 
 - Behance: https://www.behance.net/adwaakhtara/info
-- Tinkercad: https://www.tinkercad.com/things/jpJbqh28c1l
+
 
 
