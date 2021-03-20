@@ -6,7 +6,9 @@
 Hi, I'm Aditya (he/him)—I'm an informatics engineering student. My field focuses on UI design, but sometimes I also took the time to explore a few things about programming.
 
 ## Get in touch
+
 - Instagram: https://www.instagram.com/uix.adit
+- Twitter : https://www.twitter.com/xchlv
 
 - Behance: https://www.behance.net/adwaakhtara/info
 
