@@ -8,7 +8,7 @@ Hi, I'm Aditya (he/him)—I'm an informatics engineering student. My field focus
 ## Get in touch
 
 - Instagram : https://www.instagram.com/uix.adit
-- Twitter : https://www.twitter.com/xchlv
+- Twitter : https://www.twitter.com/mxchlv
 
 - Behance : https://www.behance.net/adwaakhtara/info
 
