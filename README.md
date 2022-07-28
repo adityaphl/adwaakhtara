@@ -1,17 +1,19 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  Welcome to Aditya's Github! He's an informatics engineering student interested in data science, machine learning, and content writing. He also likes Python, and exploring Cloud Tech🐍 ☁️. Currently not very active on GitHub due to preparing a project. </samp></h4>
+<h4 align="justify"><samp> Hi there! 
+Welcome to my GitHub repository!
+I'm an informatics engineering student which interested in data science, digital marketing learning, and product development. Currently, not very active on GitHub due to preparing my undergraduate thesis. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/3o7TKs2XTu7R5DefUk/giphy.gif">
 </p>
 
 <p align="center"><samp>
-Check out the links below / see the repository ⬇️  
+Check out the links below!
   </samp>
 </p>
 
 <p align="center">
-<a href= "radityaphl.medium.com"><img src="https://img.icons8.com/windows/32/4a90e2/medium-logo.png"/></a>
-<a href= "https://twitter.com/"><img src="https://img.icons8.com/windows/32/4a90e2/twitter.png"/></a>
-<a href= "github.com/adwaakhtara"><img src="https://img.icons8.com/windows/32/4a90e2/github.png"/></a>
+<a href= "https://www.linkedin.com/in/radityaphlv"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
+<a href= "https://radityaphl.medium.com/"><img src="https://img.icons8.com/windows/32/000000/medium.png"/>
+<a href= "https://github.com/radityaphl"><img src="https://img.icons8.com/windows/32/000000/github.png"/></a>
 </p>
